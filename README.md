@@ -1,0 +1,2 @@
+# CopilotControlPowerApps
+Copilot コントロールのコード
